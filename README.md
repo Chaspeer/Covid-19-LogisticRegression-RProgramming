@@ -6,7 +6,7 @@ This information was taken from the following [link](https://www.argentina.gob.a
 Then, I selected the most significant variables and created a model based on the logistic regression algorithm. 
 The idea of this model is to predict if a person will survive or not, based on their characteristics. 
 
-Based on the final results drop by the model, we can conclude that the most important variables were:
+Centered on the final results dropped by the model, we can conclude that the most important variables were:
 + Sex
 + Asistencia_respiratoria_mecanica
 + Edad
